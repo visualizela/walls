@@ -19,9 +19,9 @@
 
 title:            'Whose Walls'
 description:      'Encountering, describing, and understanding our relationship with walls and other structures that impact our day to day lives, especially within a media ecology.'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2023'
+url:              'https://visualizela.github.io/walls/'
+baseurl:          '/walls'
+copyright:        'AndyRutkowski'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
 
