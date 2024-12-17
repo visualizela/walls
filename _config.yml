@@ -82,8 +82,8 @@ search:
       Walls:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
+          - creator
+          - experience
           - label
           - _date
           - object_type
