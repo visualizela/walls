@@ -109,9 +109,9 @@ menu:
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'USC'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Questions and further explorations'
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
