@@ -1,0 +1,71 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/walls.json",
+  "@type": "sc:Collection",
+  "label": "walls",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0008/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0008"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0009/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0009"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0004/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0004"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0003/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0003"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0002"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0005/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0005"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0012/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0012"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0007/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0007"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0006/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0006"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0010/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0010"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0011/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0011"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj0001"
+    }
+  ]
+}
