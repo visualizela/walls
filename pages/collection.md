@@ -4,7 +4,14 @@ title: Browse the Collection
 permalink: /collection/
 ---
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+This site's collection comprises a set of wall and other related objects found throughout Los Angeles.
 
-## By Artifact
+Wikipedia provides an excellent starting point for a comprehensive list of walls throughout the world. [Wikipedia List of Walls](https://en.wikipedia.org/wiki/List_of_walls)
+
+
+## By Location
+{% include collection_gallery.html facet_by='location' collection='walls' %}
+
+## By Object Type
 {% include collection_gallery.html facet_by='artifact_type' collection='walls' %}
+
