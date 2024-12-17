@@ -1,6 +1,3 @@
----
-layout: none
----
 {
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/obj0003_00.json",
   "@type": "sc:Sequence",

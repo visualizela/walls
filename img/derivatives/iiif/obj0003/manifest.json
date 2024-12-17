@@ -1,6 +1,3 @@
----
-layout: none
----
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj0003/manifest.json",
@@ -297,6 +294,5 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj0003_00/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj0003_00/full/1140,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj0003_00/full/full/0/default.jpg"
 }
