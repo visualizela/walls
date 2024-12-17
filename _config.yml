@@ -105,6 +105,8 @@ menu:
         link: 'metadata'
       - label: 'Annotated Bibliography'
         link: 'annotated'
+      - label: 'Contribute'
+        link: 'contribute'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
