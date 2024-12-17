@@ -18,10 +18,10 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'Mediated Walls'
-description:      'Minimal Exhibitions with Jekyll'
+description:      'An exploration of walls within a media archaeology approach'
 url:              'https://visualizela.github.io'
 baseurl:          '/walls'
-copyright:        'Example copyright org, 2023'
+copyright:        'No Copyrights'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
 
